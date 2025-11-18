@@ -3,4 +3,4 @@
 /target
 Cargo.lock
 
-/trace-*.json
+/trace-*.jsonprocess-repo.log

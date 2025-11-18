@@ -27,3 +27,5 @@ tracing = "0.1.40"
 [[bench]]
 name = "overhead"
 harness = false
+
+#[workspace]
